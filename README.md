@@ -7,7 +7,7 @@ This Python script assesses the complexity of a user-provided password based on 
 
 1. Ensure you have Python installed on your system.
 2. Run the script by executing the following command in your terminal: 
-    > "python PasswordChecker.py"
+    > python PasswordChecker.py
 3. Enter your desired password.
 
 ### Password Complexity Criteria
@@ -19,7 +19,8 @@ This Python script assesses the complexity of a user-provided password based on 
 ## Files
 
 - `password_complexity_checker.py`: The main Python script that assesses password complexity.
-- `100k-most-used-passwords-NCSC.txt`: A text file containing a list of common password patterns or dictionary words. from Danielmiessler. (n.d.). SecLists/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt at master · danielmiessler/SecLists. GitHub. https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt
+- `100k-most-used-passwords-NCSC.txt`: A text file containing a list of common password patterns or dictionary words. 
+from Danielmiessler. (n.d.). SecLists/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt at master · danielmiessler/SecLists. GitHub. https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt
 
 ## Dependencies
 
